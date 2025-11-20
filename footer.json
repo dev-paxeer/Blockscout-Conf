@@ -1,0 +1,39 @@
+[
+	{
+		"title": "Partners",
+		"links": [
+			{
+				"text": "ChainFLow",
+				"url": "https://chainflowtrading.com",
+				"iconUrl": [
+					"https://chainflowtrading.com/Logo.svg",
+					"https://chainflowtrading.com/Logo.svg"
+				]
+			},
+			{
+				"text": "Sidiora",
+				"url": "https://org.sidiora.exchange/",
+				"iconUrl": [
+					"https://sidiora.exchange/media/c682bdc3-3f1e-4437-b571-862e7215868e.svg",
+					"https://sidiora.exchange/media/c682bdc3-3f1e-4437-b571-862e7215868e.svg"
+				]
+			},
+			{
+				"text": "Paxeer Network",
+				"url": "https://paxeer.app",
+				"iconUrl": [
+					"https://www.paxeer.app/_astro/logo.DexyTq8F.png",
+					"https://www.paxeer.app/_astro/logo.DexyTq8F.png"
+				]
+			},
+			{
+				"text": "PaxDocs",
+				"url": "https://docs.paxeer.app/",
+				"iconUrl": [
+					"https://www.paxeer.app/_astro/logo.DexyTq8F.png",
+					"https://www.paxeer.app/_astro/logo.DexyTq8F.png"
+				]
+			}
+		]
+	}
+]
