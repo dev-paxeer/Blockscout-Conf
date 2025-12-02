@@ -1,0 +1,83 @@
+[
+  {
+    "id": "paxport",
+    "title": "Paxport Wallet",
+    "external": true,
+    "internalWallet": false,
+    "priority": 10,
+    "logo": "https://paxportwallet.com/nodepax_logo.svg",
+    "logoDarkMode": "https://paxportwallet.com/nodepax_logo.svg",
+    "shortDescription": "Paxport Wallet is a non-custodial crypto wallet that allows you to store, send, and receive digital assets across multiple chains.",
+    "categories": [
+      "Bridges",
+      "Swaps",
+      "Wallet"
+    ],
+    "author": "Paxport",
+    "url": "https://paxportwallet.com",
+    "description": "Paxport Wallet is a non-custodial crypto wallet that allows you to store, send, and receive digital assets across multiple chains.",
+    "site": "https://paxportwallet.com",
+    "twitter": "https://twitter.com/paxeer_app",
+    "telegram": "https://t.me/paxeer",
+    "github": [
+      "https://github.com/paxeer-dev"
+    ],
+    "rating": 4.6,
+    "ratingsTotalCount": 13,
+    "userRating": null
+  },
+  {
+    "id": "paxswap",
+    "title": "Paxswap",
+    "external": true,
+    "internalWallet": false,
+    "priority": 9,
+    "logo": "https://cdn.dribbble.com/users/2550486/avatars/normal/a41e8a290e96cd99cf8684f7737aeeaf.png?1690830029",
+    "logoDarkMode": "https://cdn.dribbble.com/users/2550486/avatars/normal/a41e8a290e96cd99cf8684f7737aeeaf.png?1690830029",
+    "shortDescription": "The most powerful decentralized exchange. Swap tokens, provide liquidity, and earn rewards—all in one seamless platform.",
+    "categories": [
+      "Bridges",
+      "Swaps",
+      "Wallet"
+    ],
+    "author": "Paxswap",
+    "url": "https://paxswap.org",
+    "description": "The most powerful decentralized exchange. Swap tokens, provide liquidity, and earn rewards—all in one seamless platform.",
+    "site": "https://paxswap.org",
+    "twitter": "https://twitter.com/paxeer_app",
+    "telegram": "https://t.me/paxeer",
+    "github": [
+      "https://github.com/paxeer-dev"
+    ],
+    "rating": 5.0,
+    "ratingsTotalCount": 10,
+    "userRating": null
+  },
+  {
+    "id": "sidiora",
+    "title": "Sidiora Exchange",
+    "external": false,
+    "internalWallet": false,
+    "priority": 8,
+    "logo": "https://trade.sidiora.exchange/_astro/logo.bEeVGvzo.svg",
+    "logoDarkMode": "https://trade.sidiora.exchange/_astro/logo.bEeVGvzo.svg",
+    "shortDescription": "Sidiora Exchange turns protocol-governed balance sheets into live markets, internal price fabric, and routing for funded wallets across the ecosystem.",
+    "categories": [
+      "Bridges",
+      "Swaps",
+      "Wallet"
+    ],
+    "author": "Sidiora Markets",
+    "url": "https://trade.sidiora.exchange",
+    "description": "The most powerful decentralized exchange. Swap tokens, provide liquidity, and earn rewards—all in one seamless platform.",
+    "site": "https://trade.sidiora.exchange",
+    "twitter": "https://twitter.com/sidioraexchange",
+    "telegram": "https://t.me/sidioraexchange",
+    "github": [
+      "https://github.com/paxeer-dev"
+    ],
+    "rating": 5.0,
+    "ratingsTotalCount": 10,
+    "userRating": null
+  }
+]
