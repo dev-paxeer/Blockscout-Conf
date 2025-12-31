@@ -20,7 +20,7 @@
     "twitter": "https://twitter.com/paxeer_app",
     "telegram": "https://t.me/paxeer",
     "github": [
-      "https://github.com/paxeer-dev"
+      "https://github.com/paxeer-network"
     ],
     "rating": 4.6,
     "ratingsTotalCount": 13,
@@ -47,7 +47,7 @@
     "twitter": "https://twitter.com/paxeer_app",
     "telegram": "https://t.me/paxeer",
     "github": [
-      "https://github.com/paxeer-dev"
+      "https://github.com/paxeer-network"
     ],
     "rating": 5.0,
     "ratingsTotalCount": 10,
@@ -74,10 +74,66 @@
     "twitter": "https://twitter.com/sidioraexchange",
     "telegram": "https://t.me/sidioraexchange",
     "github": [
-      "https://github.com/paxeer-dev"
+      "https://github.com/paxeer-network"
+    ],
+    "rating": 5.0,
+    "ratingsTotalCount": 10,
+    "userRating": null
+  },
+  {
+    "id": "predix",
+    "title": "Predix Markets",
+    "external": true,
+    "internalWallet": false,
+    "priority": 8,
+    "logo": "https://predix.paxeer.app/paxeer-logo-banner.png.jpg",
+    "logoDarkMode": "https://predix.paxeer.app/paxeer-logo-banner.png.jpg",
+    "shortDescription": "Trade outcomes across sports, crypto, and real-world events.",
+    "categories": [
+      "Bridges",
+      "Swaps",
+      "Wallet"
+    ],
+    "author": "Predix",
+    "url": "https://predix.paxeer.app/",
+    "description": "Trade outcomes across sports, crypto, and real-world events.",
+    "site": "https://predix.paxeer.app/",
+    "twitter": "https://twitter.com/sidioraexchange",
+    "telegram": "https://t.me/sidioraexchange",
+    "github": [
+      "https://github.com/paxeer-network"
+    ],
+    "rating": 5.0,
+    "ratingsTotalCount": 10,
+    "userRating": null
+  }, 
+  {
+    "id": "governance",
+    "title": "Paxeer DAO",
+    "external": true,
+    "internalWallet": false,
+    "priority": 8,
+    "logo": "https://www.paxeer.app/logo.DexyTq8F.png",
+    "logoDarkMode": "https://www.paxeer.app/logo.DexyTq8F.png",
+    "shortDescription": "Shape the future of Paxeer Network. Vote on proposals, manage treasury funds, and participate in decentralized governance.",
+    "categories": [
+      "Bridges",
+      "Swaps",
+      "Wallet"
+    ],
+    "author": "Welcome to Paxeer DAO",
+    "url": "https://governance.paxeer.app/",
+    "description": "Shape the future of Paxeer Network. Vote on proposals, manage treasury funds, and participate in decentralized governance.",
+    "site": "https://governance.paxeer.app/",
+    "twitter": "https://twitter.com/sidioraexchange",
+    "telegram": "https://t.me/sidioraexchange",
+    "github": [
+      "https://github.com/paxeer-network"
     ],
     "rating": 5.0,
     "ratingsTotalCount": 10,
     "userRating": null
   }
 ]
+
+
