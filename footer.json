@@ -3,6 +3,14 @@
     "title": "Partners",
     "links": [
       {
+        "text": "Paxeer Network",
+        "url": "https://paxeer.app",
+        "iconUrl": [
+          "https://www.paxeer.app/_astro/logo.DexyTq8F.png",
+          "https://www.paxeer.app/_astro/logo.DexyTq8F.png"
+        ]
+      },
+      {
         "text": "ChainFLow",
         "url": "https://chainflowtrading.com",
         "iconUrl": [
@@ -12,72 +20,19 @@
       },
       {
         "text": "Sidiora",
-        "url": "https://org.sidiora.exchange/",
+        "url": "https://sidiora.hyperpaxeer.com/",
         "iconUrl": [
           "https://sidiora.exchange/media/c682bdc3-3f1e-4437-b571-862e7215868e.svg",
           "https://sidiora.exchange/media/c682bdc3-3f1e-4437-b571-862e7215868e.svg"
         ]
       },
       {
-        "text": "Paxeer Network",
-        "url": "https://paxeer.app",
+        "text": "Paxeer Docs",
+        "url": "https://docs.hyperpaxeer.com/",
         "iconUrl": [
           "https://www.paxeer.app/_astro/logo.DexyTq8F.png",
           "https://www.paxeer.app/_astro/logo.DexyTq8F.png"
         ]
-      },
-      {
-        "text": "PaxDocs",
-        "url": "https://docs.paxeer.app/",
-        "iconUrl": [
-          "https://www.paxeer.app/_astro/logo.DexyTq8F.png",
-          "https://www.paxeer.app/_astro/logo.DexyTq8F.png"
-        ]
-      }
-    ]
-  },
-  {
-    "title": "Blockscout",
-    "links": [
-      {
-        "text": "X",
-        "url": "https://x.com/paxeer_app",
-        "iconUrl": [
-          "https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/all-icons/twitter-x-1fhy50xzcvkl246hf5ua4.png/twitter-x-jyw81k7vr85ry57c7ym2d.png?_a=DATAg1AAZAA0",
-          "https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/all-icons/twitter-x-1fhy50xzcvkl246hf5ua4.png/twitter-x-jyw81k7vr85ry57c7ym2d.png?_a=DATAg1AAZAA0"
-        ]
-      },
-      {
-        "text": "Telegram",
-        "url": "https://t.me/paxeer",
-        "iconUrl": [
-          "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png",
-          "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png"
-        ]
-      },
-      {
-        "text": "Donate",
-        "url": "https://paxeer.app"
-      },
-      {
-        "text": "Submit an issue",
-        "url": "https://github.com/dev-paxeer/Blockscout-Conf",
-        "iconUrl": [
-          "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/2048px-Octicons-mark-github.svg.png",
-          "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/2048px-Octicons-mark-github.svg.png"
-        ]
-      },
-      {
-        "text": "Contribute",
-        "url": "https://github.com/dev-paxeer/Blockscout-Conf",
-        "iconUrl": [
-          "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/2048px-Octicons-mark-github.svg.png",
-          "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/2048px-Octicons-mark-github.svg.png"
-        ]
-      },
-      {
-        "text": "All chains",
-        "url": "https://raw.githubusercontent.com/dev-paxeer/Blockscout-Conf/refs/heads/main/featuredNetwork.json"
       }
     ]
   }
