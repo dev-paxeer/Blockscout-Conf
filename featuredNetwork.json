@@ -1,9 +1,9 @@
 [
 	{
-		"title": "Paxeer",
-		"url": "https://scan.paxeer.app/",
+		"title": "HyperPaxeer",
+		"url": "https://paxscan.paxeer.app/",
 		"group": "Mainnets",
-		"icon": "https://www.paxeer.app/_astro/logo.DexyTq8F.png"
+		"icon": "https://raw.githubusercontent.com/Paxeer-Network/Paxeer-Network-Brand-Kit/refs/heads/main/PaxeerNetworkInvertedsymbol.png"
 	},
 	{
 		"title": "Ethereum",
