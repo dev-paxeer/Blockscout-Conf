@@ -5,7 +5,7 @@
     "external": true,
     "internalWallet": false,
     "priority": 10,
-    "logo": "https://paxportwallet.com/nodepax_logo.svg",
+    "logo": "https://pwa.xyz/9A8M5x1vqBbYDabPPQaS%2FBBlwrfIMtXRormG.png?alt=media&token=78681adf-b998-4355-aaf3-81e6bcdb4fdb",
     "logoDarkMode": "https://paxportwallet.com/nodepax_logo.svg",
     "shortDescription": "Paxport Wallet is a non-custodial crypto wallet that allows you to store, send, and receive digital assets across multiple chains.",
     "categories": [
@@ -18,7 +18,7 @@
     "description": "Paxport Wallet is a non-custodial crypto wallet that allows you to store, send, and receive digital assets across multiple chains.",
     "site": "https://paxportwallet.com",
     "twitter": "https://twitter.com/paxeer_app",
-    "telegram": "https://t.me/paxeer",
+    "telegram": "https://t.me/paxeernetwork",
     "github": [
       "https://github.com/paxeer-network"
     ],
@@ -27,23 +27,23 @@
     "userRating": null
   },
   {
-    "id": "paxswap",
-    "title": "Paxswap",
+    "id": "sidiora",
+    "title": "Sidiora Swap",
     "external": true,
     "internalWallet": false,
     "priority": 9,
-    "logo": "https://cdn.dribbble.com/users/2550486/avatars/normal/a41e8a290e96cd99cf8684f7737aeeaf.png?1690830029",
-    "logoDarkMode": "https://cdn.dribbble.com/users/2550486/avatars/normal/a41e8a290e96cd99cf8684f7737aeeaf.png?1690830029",
+    "logo": "https://perps.sidiora.xyz/sidiora_icon_dark.svg",
+    "logoDarkMode": "https://swap.sidiora.xyz/sidiora_icon.svg",
     "shortDescription": "The most powerful decentralized exchange. Swap tokens, provide liquidity, and earn rewards—all in one seamless platform.",
     "categories": [
       "Bridges",
       "Swaps",
       "Wallet"
     ],
-    "author": "Paxswap",
-    "url": "https://paxswap.org",
+    "author": "Sidiora Markets",
+    "url": "https://swap.sidiora.xyz",
     "description": "The most powerful decentralized exchange. Swap tokens, provide liquidity, and earn rewards—all in one seamless platform.",
-    "site": "https://paxswap.org",
+    "site": "https://swap.sidiora.xyz",
     "twitter": "https://twitter.com/paxeer_app",
     "telegram": "https://t.me/paxeer",
     "github": [
@@ -54,25 +54,25 @@
     "userRating": null
   },
   {
-    "id": "sidiora",
-    "title": "Sidiora Exchange",
+    "id": "sidiora-perps",
+    "title": "Sidiora Perpetual Exchange",
     "external": false,
     "internalWallet": false,
     "priority": 8,
-    "logo": "https://trade.sidiora.exchange/_astro/logo.bEeVGvzo.svg",
-    "logoDarkMode": "https://trade.sidiora.exchange/_astro/logo.bEeVGvzo.svg",
-    "shortDescription": "Sidiora Exchange turns protocol-governed balance sheets into live markets, internal price fabric, and routing for funded wallets across the ecosystem.",
+    "logo": "https://perps.sidiora.xyz/sidiora_icon_dark.svg",
+    "logoDarkMode": "https://swap.sidiora.xyz/sidiora_icon.svg",
+    "shortDescription": "Sidiora Perpetual Exchange turns protocol-governed balance sheets into live markets, internal price fabric, and routing for funded wallets across the ecosystem.",
     "categories": [
       "Bridges",
       "Swaps",
       "Wallet"
     ],
     "author": "Sidiora Markets",
-    "url": "https://trade.sidiora.exchange",
+    "url": "https://perps.sidiora.xyz",
     "description": "The most powerful decentralized exchange. Swap tokens, provide liquidity, and earn rewards—all in one seamless platform.",
-    "site": "https://trade.sidiora.exchange",
-    "twitter": "https://twitter.com/sidioraexchange",
-    "telegram": "https://t.me/sidioraexchange",
+    "site": "https://perps.sidiora.xyz",
+    "twitter": "https://twitter.com/paxeer_app",
+    "telegram": "https://t.me/paxeernetwork",
     "github": [
       "https://github.com/paxeer-network"
     ],
@@ -81,25 +81,25 @@
     "userRating": null
   },
   {
-    "id": "predix",
-    "title": "Predix Markets",
+    "id": "hyperPaxeer-colosseum",
+    "title": "HyperPaxeer Colosseum",
     "external": true,
     "internalWallet": false,
     "priority": 8,
-    "logo": "https://predix.paxeer.app/paxeer-logo-banner.png.jpg",
-    "logoDarkMode": "https://predix.paxeer.app/paxeer-logo-banner.png.jpg",
-    "shortDescription": "Trade outcomes across sports, crypto, and real-world events.",
+    "logo": "https://colosseum.hyperpaxeer.com/styles/swords-emblem.svg",
+    "logoDarkMode": "https://colosseum.hyperpaxeer.com/styles/swords-emblem.svg",
+    "shortDescription": "Plebeian Your standard $50k starting account Equite Unlock a $100k account by hitting the Top 25% CenturionCommand a $250k account by reaching the Top 10% Legate The elite few who manage $1M+ accounts and conquer the season.",
     "categories": [
       "Bridges",
       "Swaps",
       "Wallet"
     ],
-    "author": "Predix",
-    "url": "https://predix.paxeer.app/",
-    "description": "Trade outcomes across sports, crypto, and real-world events.",
+    "author": "HyperPaxeer Colosseum",
+    "url": "https://colosseum.hyperpaxeer.com/",
+    "description": "Plebeian Your standard $50k starting account Equite Unlock a $100k account by hitting the Top 25% CenturionCommand a $250k account by reaching the Top 10% Legate The elite few who manage $1M+ accounts and conquer the season.",
     "site": "https://predix.paxeer.app/",
-    "twitter": "https://twitter.com/sidioraexchange",
-    "telegram": "https://t.me/sidioraexchange",
+    "twitter": "https://twitter.com/",
+    "telegram": "https://t.me/",
     "github": [
       "https://github.com/paxeer-network"
     ],
@@ -122,11 +122,11 @@
       "Wallet"
     ],
     "author": "Welcome to Paxeer DAO",
-    "url": "https://governance.paxeer.app/",
+    "url": "https://dao.hyperpaxeer.com/",
     "description": "Shape the future of Paxeer Network. Vote on proposals, manage treasury funds, and participate in decentralized governance.",
     "site": "https://governance.paxeer.app/",
-    "twitter": "https://twitter.com/sidioraexchange",
-    "telegram": "https://t.me/sidioraexchange",
+    "twitter": "https://twitter.com/paxeer_app",
+    "telegram": "https://t.me/paxeernetwork",
     "github": [
       "https://github.com/paxeer-network"
     ],
